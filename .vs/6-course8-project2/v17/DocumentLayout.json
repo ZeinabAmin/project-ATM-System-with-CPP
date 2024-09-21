@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dr\\source\\repos\\6-course8-project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67F973C2-D07B-408B-8549-AD864DAA68C1}|6-course8-project2\\6-course8-project2.vcxproj|C:\\Users\\dr\\source\\repos\\6-course8-project2\\6-course8-project2\\6-course8-project2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67F973C2-D07B-408B-8549-AD864DAA68C1}|6-course8-project2\\6-course8-project2.vcxproj|solutionrelative:6-course8-project2\\6-course8-project2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6-course8-project2.cpp",
+              "DocumentMoniker": "C:\\Users\\dr\\source\\repos\\6-course8-project2\\6-course8-project2\\6-course8-project2.cpp",
+              "RelativeDocumentMoniker": "6-course8-project2\\6-course8-project2.cpp",
+              "ToolTip": "C:\\Users\\dr\\source\\repos\\6-course8-project2\\6-course8-project2\\6-course8-project2.cpp",
+              "RelativeToolTip": "6-course8-project2\\6-course8-project2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T23:18:46.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
